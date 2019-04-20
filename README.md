@@ -1,3 +1,5 @@
 # hello-word
 Just practice
-haha ! 奈斯
+
+
+我是一个kkk
